@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome List of dams and reservoirs in India -",
+  "Type": "Screen",
+  "Id": "vgEBC2T7kkub9VN6Rab18g",
+  "Reference": "MEM94Ul_WEaF9Nmubc-JSg/vgEBC2T7kkub9VN6Rab18g",
+  "ParentRef": "MEM94Ul_WEaF9Nmubc-JSg/BAnhIxhUw062u71lBHCU1A",
+  "Created": "2024-12-12T12:08:54.1719122Z",
+  "Updated": "2024-12-12T12:08:54.1719122Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
