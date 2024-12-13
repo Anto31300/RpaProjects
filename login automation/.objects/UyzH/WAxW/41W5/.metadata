@@ -1,0 +1,13 @@
+﻿{
+  "Name": "NVIDIA GeForce Overlay",
+  "Type": "Screen",
+  "Id": "41W51K-cXEKbeoZpbCTWrg",
+  "Reference": "cjibovTMiEK3Amq-Dy73Qw/41W51K-cXEKbeoZpbCTWrg",
+  "ParentRef": "cjibovTMiEK3Amq-Dy73Qw/WAxWoPa4CUuteuNQZFxVAw",
+  "Created": "2024-12-13T20:25:29.5021102Z",
+  "Updated": "2024-12-13T20:25:29.5021102Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
